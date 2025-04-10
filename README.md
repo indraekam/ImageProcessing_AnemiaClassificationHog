@@ -56,10 +56,10 @@ Step-by-step process:
 
 | Metric         | Value     |
 |----------------|-----------|
-| Accuracy       | 92.5%     |
-| Precision      | 93%       |
-| Recall         | 91%       |
-| F1-Score       | 92%       |
+| Accuracy       | 95%     |
+| Precision      | 91%       |
+| Recall         | 90%       |
+| F1-Score       | 95%       |
 
 *(Replace with your actual results after final run)*
 
@@ -89,7 +89,7 @@ Step-by-step process:
 
 **Indra Eka Mandriana S.Kom**  
 _Machine Learning Engineer & Researcher_  
-[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/your-username) | [Email](mailto:your@email.com)
+[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/indra-eka-mandriana-47a885148/)) | [GitHub](https://github.com/indraekam) | [Email](mailto:indraeka.mandriana29@gmail.com)
 
 ---
 
