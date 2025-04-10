@@ -1,3 +1,6 @@
+![Banner](assets/banner_anemia_classification_hog.png)
+
+
 # 🩺 Anemia Classification using Hemoglobin Image & HOG Features
 
 This project is an end-to-end machine learning pipeline to classify anemia based on hemoglobin images taken from the **lower eyelid**.  
