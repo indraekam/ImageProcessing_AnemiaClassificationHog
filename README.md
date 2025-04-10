@@ -12,7 +12,7 @@ It leverages **Histogram of Oriented Gradients (HOG)** for feature extraction an
 
 - 📷 Input: RGB Image of hemoglobin from the eyelid (JPG)
 - 🔍 Feature Extraction: HOG (Histogram of Oriented Gradients)
-- 🧠 Model: Decision Tree Classifier
+- 🧠 Model: Decision Tree Classifier and SGD Classifier
 - 📊 Output: Anemia classification (`anemia` or `normal`)
 - 📈 Evaluation: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
